@@ -7,3 +7,24 @@ nav {
 .navbar-brand {
   color: #001370;
 }
+.carousel-caption {
+  background-color: rgba(0, 137, 255, 0.3);
+}
+.event {
+  margin-bottom: 50px;
+}
+
+.newsletter {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.btn-primary {
+  margin-top: 20px;
+}
+.form-group {
+  margin-top: 20px;
+}
