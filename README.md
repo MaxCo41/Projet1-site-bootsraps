@@ -1,4 +1,4 @@
-# Projet1-site-bootsrap
+# Projet1-site-bootsraps
 
 Exerice qui consiste à faire un site en utilisant Boostraps.
 
